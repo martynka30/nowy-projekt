@@ -1,1 +1,51 @@
 # nowy-projekt
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Kora LPS/title>
+	<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+<style>
+
+body  {
+ background: #cbbb9b;
+margin:0;
+padding: 0;
+}
+wrapper {
+width :960pl;
+height :auto;
+backgound :#dad5c1;
+border-left :5px solid #ab0988;
+border-right :5px solid #ab0988;
+overflow :auto;
+margin :0 auto;
+padding:10px;
+
+}
+</style>
+
+	</head>
+	<body>
+	  <div id="wrapper">
+  <img src="https://olxpl-ring07.akamaized.net/images_tablicapl/556082682_8_644x461_lps-jamnik-unikat-325-littlest-pet-shop-czarny-pies-piesek-magnes-.jpg" />
+
+   <p style="font-size:30px; font-family:Futura; color:red">Mam 9 lat, mam na imię Kornelia, jestem dziewczną, mieszkam w Katowicach </p>
+     <ul>	
+		<li><p style="font-size:20px; color:blue"><strong>Interesuje się </strong></p>
+				<ul>
+                 	<li style="font-family:Futura">Muzyka</li>
+					<li style="font-family:Futura">Śpiew</li>
+					<li style="font-family:Futura">Aktorstwo</li>
+				 </ul>
+			 </li>
+		  <li><p style="font-size:20px; color:blue">Ulubiona rzecz</p>
+            	<ol>
+                 	<li style="font-family:Futura">Pet Shope y</li>
+					<li style="font-family:Futura">Gra w Minecraft</li>
+                </ol>
+			
+			<li><p style="font-size:20px; color:blue"><em>Uczeszczam do szkoły                                  podstawowej nr 51</em></p>	</li>
+	  </ul>
+
+	</body>
+</html>
